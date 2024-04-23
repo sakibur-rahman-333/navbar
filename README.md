@@ -8,9 +8,9 @@
 
 ## Preview(Desktop)
 
-![Home](https://i.imgur.com/gtgYD0J.png)
+![Home](https://i.imgur.com/AOZL4ev.png)
 
 ## Preview(Mobile)
 
-![Home](https://i.imgur.com/g8ye9YX.png)
-![Home](https://i.imgur.com/SZy6b6g.png)
+![Home](https://i.imgur.com/mBYCaIF.png)
+![Home](https://i.imgur.com/QkXwkF4.png)
